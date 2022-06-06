@@ -25,7 +25,7 @@ function timerStop() {
 function timerReset() {
     stopwatchButton.setAttribute('onclick', 'timerStart()');
     stopwatchButton.innerHTML = 'Start';
-    stopwatch.innerHTML = '00.000';
+    stopwatch.innerHTML = '00.00';
     seconds = 0;
     centiSeconds = 0;
 }
