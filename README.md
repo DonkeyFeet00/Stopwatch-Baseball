@@ -14,3 +14,5 @@ how the game is played:
 - everytime that a runner makes it all the way around to homebase, the player scores a point  
 - everytime that a player stops the stopwatch outside of these times, they get a strike. 3 strikes and they are out and its the next players turn!  
 - after each player has had 9 attempts (innings) the game is over and whoever has the highest score wins!  
+
+i do plan on eventually adding a baseball diamond to the page that will show what bases are "loaded" or empty, accessibility options like extending the timer and widening the scoring intervals.
