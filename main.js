@@ -35,7 +35,7 @@ function timerTick() {
             centiSeconds = 0;
         }
 
-        stopwatch.innerHTML = seconds.toString() + '.' + centiSeconds.toString();
+        stopwatch.innerHTML = seconds + '.' + centiSeconds;
 
         setTimeout(() => {
             timerTick()
