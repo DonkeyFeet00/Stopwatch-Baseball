@@ -42,6 +42,10 @@ function timerTick() {
             centiSeconds = 0;
         }
 
+        if (seconds >= 99) {
+            timerStop();
+        }
+
         stopwatch.innerHTML = seconds + '.' + centiSeconds;
 
         setTimeout(() => {
