@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
         <script>
-            $(document).ready(function(){
+            $(document).ready(function() {
                 $("#popup").dialog();
             })
         </script>
@@ -25,11 +25,9 @@
     <!-- the stopwatch numbers with the button below it -->
     <div>
         <div id="stopwatch">
-            00.000
+            00.00
         </div>
-        <button onclick="timerStart()">start</button>
-        <button onclick="timerStop()">stop</button>
-        <button onclick="timerReset()">reset</button>
+        <button id="stopwatch-button" onclick="timerStart()">Start</button>
     </div>
     <!-- accessibility options (input to make the goal a certain number of seconds, input to deside how far off each scoreing is, an option to make numbers above goal to count) -->
 
