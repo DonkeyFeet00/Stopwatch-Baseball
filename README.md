@@ -15,4 +15,4 @@ how the game is played:
 - everytime that a player stops the stopwatch outside of these times, they get a strike. 3 strikes and they are out and its the next players turn!  
 - after each player has had 9 attempts (innings) the game is over and whoever has the highest score wins!  
 
-i do plan on eventually adding a baseball diamond to the page that will show what bases are "loaded" or empty, accessibility options like extending the timer and widening the scoring intervals.
+i do plan on eventually adding a baseball diamond to the page that will show what bases are "loaded" or empty, accessibility options like extending the timer and widening the scoring intervals. the first version however will likely just have 3 dots in a row representing the bases.
